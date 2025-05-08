@@ -61,42 +61,6 @@ Digital-Clock-PyQt5/
 - PyQt5 for the GUI framework
 - DS-DIGIT.TTF font for the digital display
 
-# Stopwatch Application
-
-A modern, sleek stopwatch application built with PyQt5 featuring a dark theme and precise time tracking.
-
-## Features
-
-- 🕒 Displays time in HH:MM:SS:MS format
-- ▶️ Start, stop, and reset functionality
-- 🎨 Modern dark theme with cyan accents
-- 📱 Responsive and centered display
-- 🔤 Uses Poppins font family for better readability
-
-## Requirements
-
-- Python 3.x
-- PyQt5
-
-## Installation
-
-1. Clone this repository or download the source code
-2. Install the required dependencies:
-   ```bash
-   pip install PyQt5
-   ```
-
-## Usage
-
-1. Run the application:
-   ```bash
-   python STOP-WATCH-PYQT5.PY
-   ```
-2. Use the buttons to control the stopwatch:
-   - **Start**: Begins the timer
-   - **Stop**: Pauses the timer
-   - **Reset**: Resets the timer to 00:00:00:00
-
 ## License
 
 This project is open source and available under the MIT License.
